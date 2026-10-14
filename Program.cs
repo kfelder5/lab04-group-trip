@@ -9,7 +9,7 @@ Date: September 22,2026
 // Part 1 Caculating the fuel cost 
 
 
-using System.Reflection.Metadata;
+
 
 Console.Write("What was the round trip in miles?");
 int roundTripMiles = Convert.ToInt32(Console.ReadLine());
